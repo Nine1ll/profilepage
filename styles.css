@@ -15,7 +15,7 @@ body {
     border-radius: 100%;
     border: 2px solid white;
 
-    background-image: url("profile.jpeg");
+    background-image: url("profile.png");
     background-position: center;
     background-size: cover;
 }
